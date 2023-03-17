@@ -106,7 +106,7 @@ span {
   left: 50%;
   top: 50%;
   z-index: 2;
-  background-image: url(../public/goldenstar.png);
+  background-image: url(../public/star.png);
   background-size: cover;
   opacity: 1;
   transition: opacity 3s;
